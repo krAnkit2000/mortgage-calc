@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/krAnkit2000/mortgage-calc.git/static/css/main.013b5220.css",
+    "main.js": "/krAnkit2000/mortgage-calc.git/static/js/main.ee440617.js",
+    "index.html": "/krAnkit2000/mortgage-calc.git/index.html",
+    "main.013b5220.css.map": "/krAnkit2000/mortgage-calc.git/static/css/main.013b5220.css.map",
+    "main.ee440617.js.map": "/krAnkit2000/mortgage-calc.git/static/js/main.ee440617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013b5220.css",
+    "static/js/main.ee440617.js"
+  ]
+}
