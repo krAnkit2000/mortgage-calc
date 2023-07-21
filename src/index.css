@@ -1,0 +1,106 @@
+body {
+  
+  width: 22rem;
+ /* border: 2px solid rgb(33, 32, 32); */
+ border-radius: 2px;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: serif;
+  font-size: 16px;
+  text-align: center;
+  background-color: #ccc;
+  box-sizing: border-box;
+  box-shadow: 2px 13px 5px  3px rgb(114, 62, 62);
+}
+header{
+
+  text-shadow: 2px 2px rgb(234, 131, 131);
+  /* background-color: #f2f2ef; */
+  padding: 14px;
+  box-shadow: 0 1px 3px 5px rgba(3, 2, 2, 0.12),0 1px 2px rgba(0, 0, 0, 0.24);
+
+}
+h1{
+  text-align: center;
+}
+h1,h2{
+   font-weight: 300;
+  
+}
+header > h1{
+  font-weight: 300;
+  font-size: 24px;
+  margin:0;
+  color: #080808;
+}
+h2{ 
+  text-align: center;
+
+  border-radius: 12px;
+  color: rgb(224, 15, 15);
+  /* background-color: rgb(115, 59, 59); */
+background-size: auto;
+  font-size: 24px;
+  margin: 24px 0;
+  box-shadow: 2px 3px 5px rgb(60, 31, 31);
+  
+
+}
+  h2 >.currency{
+  color: #f40606;
+padding: 10px auto;
+
+
+font-weight: bold;
+}
+.principal{
+  color: #040404;
+
+  
+}
+.interest{
+  color: #EF6C00;
+}
+input[type=text]{
+  /* -webkit-appearance: none; */
+  width: 150px auto;
+  height: 24px;
+  padding: 3px 8px;
+  margin: 10px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  background-color: #ece7e7;
+  color: #070606;
+  border: 1px solid #bb5353;
+  border-radius: 5px;
+  box-shadow: none;
+}
+button{
+  border: 1px solid rgb(238, 224, 224);
+  border-radius: 10px ;
+  /* background-color: rgb(237, 237, 214); */
+  color: rgb(5, 5, 5);
+  margin: 20px ; 
+  padding: 10px;
+font-weight: bold;
+box-shadow: 2px 3px 2px black;
+
+}
+label{
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+  margin-right: 4px;
+  
+}
+.content{
+  padding: 20px;
+
+}
+
+.left{
+  text-align: left;
+}
+.form > div{
+  margin: 6px o;
+}
